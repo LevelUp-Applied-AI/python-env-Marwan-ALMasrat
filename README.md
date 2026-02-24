@@ -28,7 +28,3 @@ python -m pip install -r requirements-prework.txt
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
 
-
-## When to use each
-
-* Jupyter Notebook is more interactive, I can explore, modify, understand, and handle the data more easily. However, if I were in the production and deploy phase, I would choose the script because it is production, deployment, and more secure.
